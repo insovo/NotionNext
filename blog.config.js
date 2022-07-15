@@ -1,7 +1,7 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
-  AUTHOR: 'insovo✨', // 作者
-  BIO: '夜猫shiwo✨', // 作者简介
+  AUTHOR: '夜猫shiwo✨', // 作者
+  BIO: '幼儿园高材生', // 作者简介
   LINK: 'https://github.com/insovo/NotionNext', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
