@@ -1,8 +1,9 @@
 # Contributing
 
-- [Setup](#setup)
-- [Creating new themes](#creating-new-themes)
-- [Adding localizations](#adding-localizations)
+- [Contributing](#contributing)
+  - [Setup](#setup)
+  - [Creating new themes](#creating-new-themes)
+  - [Adding localizations](#adding-localizations)
 
 Thanks for considering to contribute!
 
